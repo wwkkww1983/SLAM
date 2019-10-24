@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SIFT.dir/main.cpp.o  -o SIFT 

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zpw/github/SLAM/PCL库使用/ch01 滤波器/pcl::ExtractIndices提取点云子集/main.cpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NADF.dir/main.cpp.o  -o NADF 
