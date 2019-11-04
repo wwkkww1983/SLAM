@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zpw/github/SLAM/Laser_Slam/ch02/odom_ws/devel/setup.sh
